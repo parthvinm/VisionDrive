@@ -28,7 +28,7 @@ Contributions are welcome! If you have ideas to enhance the system’s accuracy,
 
 ## Support
 
-If you find this project helpful, consider giving it a ⭐ on GitHub!
+If you find this project helpful, consider giving it a ⭐!
 
 ## Acknowledgments
 
